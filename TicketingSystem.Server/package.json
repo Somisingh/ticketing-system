@@ -1,0 +1,7 @@
+{
+  "name": "ticketingsystem-server-proxy",
+  "private": true,
+  "scripts": {
+    "dev": "cd ../ticketingsystem.client && npm run dev"
+  }
+}
