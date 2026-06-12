@@ -61,7 +61,7 @@ TicketingSystem/
 ## 🚀 Local Development
 
 ### Prerequisites
--.NET 8 SDK
+- .NET 8 SDK
 - Node.js 18+
 - SQLite
 
